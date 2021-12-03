@@ -1,16 +1,27 @@
-### Hi there 👋
+# `Im David `💤💤
 
-<!--
-**itsDavidev/itsDavidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# `current project`✔
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=L-davidev&repo=davtion)](https://github.com/istDavidev/itsDavidev)
 
-Here are some ideas to get you started:
+#### ~ `technologies`💢
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=redux&textfill=000000&fill=00ffff)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=firebase&textfill=000000&fill=00ffff)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=styled-components&textfill=000000&fill=aqua)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&textfill=000000&fill=aqua)
+# `My Skills`❗❗❗
+![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&value=70&skill=Html&design=neon)
+![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&value=60&skill=JS&design=neon)
+![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&value=70&skill=Css&design=neon)
+![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&value=50&skill=React&design=neon)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# `MOST USED LANGUAGES`
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L-davidev&layout=compact)
+
+# `socials` 
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=twitter&text=Twitter&animation=spin&fill=1DA1F2)](https://twitter.com/itsDavidev)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=linkedin&text=LinkIn&animation=spin&fill=162636)](https://www.linkedin.com/in/david-lezama-a81741219/)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=instagram&text=Intagram&animation=spin&fill=c13584)](https://www.instagram.com/itsDavidev/)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=github&text=github&animation=spin&fill=000000)](https://github.com/L-Davidev/itsDavidev)
+
+# `Stats` 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=L-davidev&show_icons=true&theme=radical)

@@ -4,7 +4,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsDavidev&repo=davtion)](https://github.com/itsDavidev/itsDavidev)
 
 #### ~ `technologies`💢
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=redux&textfill=000000&fill=00ffff)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=firebase&textfill=000000&fill=00ffff)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=styled-components&textfill=000000&fill=aqua)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&textfill=000000&fill=aqua)

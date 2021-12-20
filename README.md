@@ -1,12 +1,9 @@
 # `Im David `💤💤
 
 # `current project`✔
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsDavidev&repo=davtion&fill=000000)](https://github.com/itsDavidev/itsDavidev)
 
-#### ~ `technologies`💢
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=firebase&textfill=000000&fill=00ffff)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=styled-components&textfill=000000&fill=aqua)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&textfill=000000&fill=aqua)
+## blog 
+
 # `My Skills`❗❗❗
 ![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&value=70&skill=Html&design=neon)
 ![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&value=60&skill=JS&design=neon)

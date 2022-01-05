@@ -1,7 +1,10 @@
 # `Im David `💤💤
 
+# `blog`
+![dblog](https://ibb.co/ZKYG2D5)
 # `current project`✔
-![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=itsDavidev&repo=Dblog&title_color=0ff&icon_color=f00&text_color=fff&bg_color=000)
+ clone of spotifi whit neomorfismo ui
+
 
 # `My Skills`❗❗❗
 ![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&value=70&skill=Html&fill=aqua)

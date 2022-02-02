@@ -1,12 +1,14 @@
 # `Im David `💤💤
 
-# `blog`
+# `proyects`
+
+## `blog`
 
 ![dblog](https://github.com/itsDavidev/itsDavidev/blob/main/assets/dblog.png)
 
-# `current project`✔
+## `portfolio`
+![portfolio](https://github.com/itsDavidev/itsDavidev/blob/main/assets/PORTFOLIO.png)
 
-clone of spotifi whit neomorfismo ui
 
 # `My Skills`❗❗❗
 

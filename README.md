@@ -4,11 +4,11 @@
 
 ## `blog`
 
-![dblog](https://github.com/itsDavidev/itsDavidev/blob/main/assets/dblog.png)
+![dblog](https://dblog.ga/)
 
 ## `portfolio`
-![portfolio](https://github.com/itsDavidev/itsDavidev/blob/main/assets/PORTFOLIO.png)
 
+![portfolio](https://itsdavidev.netlify.app/)
 
 # `My Skills`❗❗❗
 

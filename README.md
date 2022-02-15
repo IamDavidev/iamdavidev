@@ -5,10 +5,12 @@
 ## `blog`
 
 ![https://dblog.ga/](https://github.com/itsDavidev/itsDavidev/blob/main/assets/dblog.png)
+### [demo](https://dblog.ga/)
 
 ## `portfolio`
 
 ![https://itsdavidev.netlify.app/](https://github.com/itsDavidev/itsDavidev/blob/main/assets/PORTFOLIO.png)
+### [demo](https://itsdavidev.netlify.app/)
 
 # `My Skills`❗❗❗
 

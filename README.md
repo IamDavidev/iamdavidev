@@ -1,7 +1,4 @@
 # `Im David `💤💤
-
-# `proyects`
-
 ## `blog`
 
 ![https://dblog.ga/](https://github.com/itsDavidev/itsDavidev/blob/main/assets/dblog.png)

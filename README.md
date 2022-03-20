@@ -1,6 +1,13 @@
 # `Im David `💤💤
-## `blog`
 
+# `My Skills`❗❗❗
+
+![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&value=70&skill=Html&fill=aqua)
+![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&value=60&skill=JS&&fill=aqua)
+![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&value=70&skill=Css&fill=aqua)
+![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&value=50&skill=React&fill=aqua)
+
+## `dblog`
 ![https://dblog.ga/](https://github.com/itsDavidev/itsDavidev/blob/main/assets/dblog.png)
 ### [demo](https://dblog.ga/)
 
@@ -9,12 +16,6 @@
 ![https://itsdavidev.netlify.app/](https://github.com/itsDavidev/itsDavidev/blob/main/assets/PORTFOLIO.png)
 ### [demo](https://itsdavidev.netlify.app/)
 
-# `My Skills`❗❗❗
-
-![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&value=70&skill=Html&fill=aqua)
-![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&value=60&skill=JS&&fill=aqua)
-![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&value=70&skill=Css&fill=aqua)
-![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&value=50&skill=React&fill=aqua)
 
 # `MOST USED LANGUAGES`
 

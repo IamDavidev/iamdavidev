@@ -1,6 +1,6 @@
-<h1 align="center">🥷 Hola. Bienvenido a mi github. 🥷</h1>
+<h1 align="center">☘️ Hola. Bienvenido a mi github. ☘️</h1>
 <h2 align="center"><pre>
-<code align="center" display="block"> ☄️ Soy Brayan David Lezama Trejo ☄️ </code>
+<code align="center" display="block"> 🌴 ➡️ Soy Brayan David Lezama Trejo ⬅️ 🌴 </code>
 </pre></h2>
 
 <code background="black">Redes Sociales ⬇️</code>

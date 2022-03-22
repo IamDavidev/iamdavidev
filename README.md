@@ -4,14 +4,9 @@
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=instagram&text=Intagram&animation=spin&fill=c13584)](https://www.instagram.com/itsDavidev/)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=github&text=github&animation=spin&fill=000000)](https://github.com/L-Davidev/itsDavidev)
 
-![itsdavidev](https://github.com/itsDavidev/itsDavidev/blob/main/assets/DLTgithub.png)
+![itsdavidev](https://github.com/itsDavidev/itsDavidev/blob/main/assets/dlt.png)
 
-# `My Skills`❗❗❗
-
-![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&value=70&skill=Html&fill=aqua)
-![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&value=60&skill=JS&&fill=aqua)
-![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&value=70&skill=Css&fill=aqua)
-![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&value=50&skill=React&fill=aqua)
+[You can use numbers for reference-style link definitions][1]
 
 # `Stats`
 

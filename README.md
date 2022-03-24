@@ -3,13 +3,19 @@
 <code align="center" display="block"> 🌴 ➡️ Soy Brayan David Lezama Trejo ⬅️ 🌴 </code>
 </pre></h2>
 
-<code background="black">Redes Sociales ⬇️</code>
+
+<div align="center"><code background="black" align="center" >Redes Sociales ⬇️</code></div>
 <br/>
 <br/>
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=twitter&text=Twitter&animation=spin&fill=1DA1F2)](https://twitter.com/itsDavidev)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=linkedin&text=LinkIn&animation=spin&fill=162636)](https://www.linkedin.com/in/david-lezama-a81741219/)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=instagram&text=Intagram&animation=spin&fill=c13584)](https://www.instagram.com/itsDavidev/)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=github&text=github&animation=spin&fill=000000)](https://github.com/L-Davidev/itsDavidev)
+
+<div align="center" background="#fff">
+  
+  [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=twitter&text=Twitter&animation=spin&fill=1DA1F2)](https://twitter.com/itsDavidev)
+  [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=linkedin&text=LinkIn&animation=spin&fill=162636)](https://www.linkedin.com/in/david-lezama-a81741219/)
+  [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=instagram&text=Intagram&animation=spin&fill=c13584)](https://www.instagram.com/itsDavidev/)
+  [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=github&text=github&animation=spin&fill=000000)](https://github.com/L-Davidev/itsDavidev)
+  
+</div>
 
 ![itsdavidev](https://github.com/itsDavidev/itsDavidev/blob/main/assets/dlt.png)
 

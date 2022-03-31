@@ -1,6 +1,6 @@
-<h1 align="center">☘️ Hola. Bienvenido a mi github. ☘️</h1>
+<h1 align="center"> 😈😈 Hola. Bienvenido a mi github. 😈😈 </h1>
 <h2 align="center"><pre>
-<code align="center" display="block"> 🌴 ➡️ Soy Brayan David Lezama Trejo ⬅️ 🌴 </code>
+<code align="center" display="block"> 🔥 ➡️ Soy Brayan David Lezama Trejo ⬅️ 🔥 </code>
 </pre></h2>
 
 
@@ -23,10 +23,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsDavidev&show_icons=true&title_color=0ff&icon_color=f00&text_color=fff&bg_color=000)
 
-# `MOST USED LANGUAGES`
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsDavidev&layout=compac&title_color=0ff&icon_color=f00&text_color=fff&bg_color=000)
 
-
-
-<p align="center"> 🏁🏁🏁🏁🏁🏁🏁🏁🏁</p>
+<p align="center">❄❄❄❄❄❄❄❄❄❄</p>

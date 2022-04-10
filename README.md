@@ -22,6 +22,7 @@
     </p>
 <p align="right"><strong><samp>」</samp></strong></p>
 
+<div align="center">
 <details align="center">
 <summary><samp>socials</samp></summary>
 <br />
@@ -38,7 +39,7 @@
   </div>
 <p align="right"><strong><samp>」</samp></strong></p>
 <deatails><samp></samp></details>
-
+  </div>
 <br />
 <br />
 <br />

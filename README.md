@@ -3,14 +3,11 @@
  </div>
  <p align="left"><strong><samp>「</samp></strong></p>
     <p align="center">
-      <samp><br>
-            <b>
-        <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=00ffff&center=true&width=410&height=45&lines=ItsDavidev+(+Desarollador+web+Full+Stack+)+.">
-        <br>
-          <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=00ffff&center=true&width=410&height=45&lines=React+-+JavaScript+-+Go+-+WebComponents.">
-        <br>
-    </p>
+      <samp>
+               <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=00ffff&center=true&width=410&height=45&lines=itsDavidev+(+Desarrollador+web+Full+Stack+)">
+          <br>
+      <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=00ffff&center=true&width=410&height=45&lines=React+-+JavaScript+-+Go+-+WebComponents.">
+   </p>
 <p align="right"><strong><samp>」</samp></strong></p>
 
 <div align="center">

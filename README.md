@@ -1,24 +1,15 @@
 <div align="center">
-  <img src="https://media3.giphy.com/media/CePT9ywqtEgyQ/200w.webp?cid=ecf05e47w49e9j0hnmsvenr78zgpuv6jx88qsuogxeih50xx&rid=200w.webp&ct=g" alt="img" width="80" style="border-radius:.5rem;">
-</div>
-
-<p align="left"><strong><samp>「</samp></strong></p>
+  <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=c237db&center=true&width=410&height=45&lines=Brayan+David+Lezama+Trejo+.">
+ </div>
+ <p align="left"><strong><samp>「</samp></strong></p>
     <p align="center">
       <samp><br>
             <b>
-            Hola a todos
         <br>
-           soy 💧 itsdavidev 💧 y soy un desarrollador web 👨‍💻.
-            </b>
-        <br>
+        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=00ffff&center=true&width=410&height=45&lines=ItsDavidev+(+Desarollador+web+Full+Stack+)+.">
         <br>
           <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=00ffff&center=true&width=410&height=45&lines=React+-+JavaScript+-+Go+-+WebComponents.">
         <br>
-            <b>
-            ~ Brayan David Lezama Trejo ~
-            </b>
-        <br>
-      </samp><br>
     </p>
 <p align="right"><strong><samp>」</samp></strong></p>
 
@@ -41,8 +32,7 @@
 <deatails><samp></samp></details>
   </div>
 <br />
-<br />
-<br />
+
 <div align="center">
  <details> 
     <summary>
@@ -59,8 +49,6 @@
   </p>
   </details>
 </div>
-<br />
-<br />
 <br />
 <div align="center">
   <details> 

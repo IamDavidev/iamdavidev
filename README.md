@@ -1,5 +1,5 @@
 <div align="center">
-  <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=c237db&center=true&width=410&height=45&lines=👨‍💻+Brayan+David+Lezama+Trejo+👨‍💻">
+  <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=000&center=true&width=410&height=45&lines=👨‍💻+Brayan+David+Lezama+Trejo+👨‍💻">
  </div>
  <p align="left"><strong><samp>「</samp></strong></p>
     <p align="center">

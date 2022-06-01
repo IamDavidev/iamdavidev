@@ -1,7 +1,6 @@
 <div align="center">
   
-<!-- <img alt="Night Coding" width="250" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> -->
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;<image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=000&center=true&width=410&height=45&lines=👨‍💻+Brayan+David+Lezama+Trejo+👨‍💻"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
+  <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=000&center=true&width=410&height=45&lines=👨‍💻+Brayan+David+Lezama+Trejo+👨‍💻">
  </div>
  <p align="left"><strong><samp>「</samp></strong></p>
     <p align="center">
@@ -13,11 +12,11 @@
 <p align="right"><strong><samp>」</samp></strong></p>
 
 
-## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px> Lenguajes y herramientas
+<!-- ##        <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px>  -->
+## Lenguajes y herramientas
 
 <div align="center">
   
-  <!--   <img align="right" height="300px" alt="guy" width="250" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> -->
   ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
   ![TypeScript](https://img.shields.io/badge/-typescript-05122A?style=flat&logo=typescript&logoColor=ooffff)&nbsp;
   ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
@@ -29,7 +28,6 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-  <img align="right" height="200px" alt="guy" width="250" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 </div>
 <br />
 

@@ -49,9 +49,3 @@
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=github&text=github&animation=spin&fill=000000)](https://github.com/L-Davidev/itsDavidev)
 
   </div>
-  
- <div align="center">
-      <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-  </div>
-
-

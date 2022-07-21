@@ -1,5 +1,4 @@
 <div align="center">
-  
   <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=000&center=true&width=410&height=45&lines=👨‍💻+Brayan+David+Lezama+Trejo+👨‍💻">
  </div>
  <p align="left"><strong><samp>「</samp></strong></p>
@@ -11,8 +10,8 @@
    </p>
 <p align="right"><strong><samp>」</samp></strong></p>
 
-
 <!-- ##        <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px>  -->
+
 ## Lenguajes y herramientas
 
 <div align="center">
@@ -37,13 +36,12 @@
             <p align="right"><strong><samp>」</samp></strong></p>
 </div>
 
-
 ![](https://activity-graph.herokuapp.com/graph?username=itsdavidev&theme=nord)
-
 
   <div align="center" background="#fff">
 
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=twitter&text=Twitter&animation=spin&fill=1DA1F2)](https://twitter.com/itsDavidev)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=linkedin&text=LinkIn&animation=spin&fill=162636)](https://www.linkedin.com/in/david-lezama-a81741219/)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=instagram&text=Intagram&animation=spin&fill=c13584)](https://www.instagram.com/itsDavidev/)
+
   </div>

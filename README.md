@@ -5,19 +5,14 @@
 
 </div>
 
-<div align="center">
-  <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=000&center=true&width=410&height=45&lines=👨‍💻+Brayan+David+Lezama+Trejo+👨‍💻">
- </div>
+
  <p align="left"><strong><samp>「</samp></strong></p>
     <p align="center">
       <samp>
-          <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=00ffff&center=true&width=410&height=45&lines=itsDavidev+(+Desarrollador+web+Full+Stack+)">
-          <br>
-      <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=00ffff&center=true&width=410&height=45&lines=React+-+JavaScript+-+Go+-+WebComponents.">
+      <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=00ffff&center=true&width=410&height=45&lines=React+-+JavaScript+-+Go+-+Next+Astro.">
    </p>
 <p align="right"><strong><samp>」</samp></strong></p>
 
-<!-- ##        <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px>  -->
 
 ## Lenguajes y herramientas
 

@@ -1,3 +1,10 @@
+
+<div height="100px">
+
+  ![itsDavidevBanner](https://github.com/itsDavidev/itsDavidev/blob/main/images/itsDavidev_Banner.jpg)
+
+</div>
+
 <div align="center">
   <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=000&center=true&width=410&height=45&lines=👨‍💻+Brayan+David+Lezama+Trejo+👨‍💻">
  </div>

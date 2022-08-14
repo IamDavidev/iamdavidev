@@ -1,11 +1,4 @@
 
-<div height="100px">
-
-  ![itsDavidevBanner](https://github.com/itsDavidev/itsDavidev/blob/main/images/itsDavidev_Banner.jpg)
-
-</div>
-
-
  <p align="left"><strong><samp>「</samp></strong></p>
     <p align="center">
       <samp>

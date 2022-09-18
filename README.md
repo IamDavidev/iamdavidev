@@ -2,7 +2,7 @@
  <p align="left"><strong><samp>「</samp></strong></p>
     <p align="center">
       <samp>
-      <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=00ffff&center=true&width=410&height=45&lines=React+-+JavaScript+-+Go+-+Next+-+Astro.">
+      <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=00ffff&center=true&width=410&height=45&lines=TypeScript+-+Phyton+-+Go+-+Rust">
    </p>
 <p align="right"><strong><samp>」</samp></strong></p>
 

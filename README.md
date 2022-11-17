@@ -38,4 +38,3 @@
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=instagram&text=Intagram&animation=spin&fill=c13584)](https://www.instagram.com/itsDavidev/)
 
   </div>
-0 comments on commit

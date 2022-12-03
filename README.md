@@ -1,10 +1,10 @@
 
  <p align="left"><strong><samp>「</samp></strong></p>
     <div align="center">
-      <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=18&color=21FFB5&center=true&width=410&height=90&lines=Web+Developer">  
+      <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=32&color=B392F0&center=true&width=410&height=90&lines=Web+Developer">  
        </div>
 <div align="center"> 
-      <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=18&color=45A1ED&center=true&width=410&height=90&lines=NextJs+~+NestJs+~+Deno+with+{+TS+}">  
+      <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=18&color=B392F0&center=true&width=410&height=90&lines=NextJs+~+NestJs+~+Deno+with+{+TS+}">  
    </p>
 <p align="right"><strong><samp>」</samp></strong></p>
 

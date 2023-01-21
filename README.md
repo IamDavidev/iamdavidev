@@ -7,20 +7,26 @@
  <p>
    <img src="/static/Header.png" alt="header iamDavidev" width="1080"/>
  </p>
+ 
+ <a href="https://dblog-app.vercel.app" height="64"> 
+ <img src="/static/Dblog.png" alt="poo in ts" height="72" />
+</a>
 </div>
 
-<div align="center">
- 
+<br />
+
+## 📝 Last Posts 📝
+
 <a  href="https://dblog-app.vercel.app/post/poo-in-TypeScript-conceptos-y-ejemplos"> 
  <img src="/static/LastPostTS.png" alt="poo in ts" height="72" />
 </a>
 <a href="https://dblog-app.vercel.app/post/poo-in-TypeScript-conceptos-y-ejemplos"> 
  <img src="/static/ItemInstalacion.png" alt="poo in ts" height="72" />
 </a>
-</div>
 
-<br />
+<br /><br />
 
+## 🚀 Languages 🚀
 
 <div align="center">
  <p align="left"><strong><samp>「</samp></strong></p>
@@ -32,14 +38,5 @@
 [![Astro](https://img.shields.io/badge/Astro-ff5d01?style=for-the-badge&logo=astro&logoColor=ff5d0100&labelColor=191919)](https://github.com/IamDavidev)
 [![Go](https://img.shields.io/badge/go-79d4fd?style=for-the-badge&logo=go&logoColor=79d4fd&labelColor=191919)](https://github.com/IamDavidev)
 
-   <p align="right"><strong><samp>」</samp></strong></p>
-
- <br/><br/>
- </div>
- 
- <hr />
-<div align="center">
-<a href="https://dblog-app.vercel.app" height="64"> 
- <img src="/static/Dblog.png" alt="poo in ts" height="72" />
-</a>
+<p align="right"><strong><samp>」</samp></strong></p>
 </div>

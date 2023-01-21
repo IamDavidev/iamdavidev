@@ -11,7 +11,7 @@
 
 <br />
 
-## `🪝 Languages and tools 🪝`
+## 🪝 Languages and tools
 
 <div align="center">
  <p align="left"><strong><samp>「</samp></strong></p>
@@ -25,3 +25,12 @@
 
    <p align="right"><strong><samp>」</samp></strong></p>
 </div>
+
+<br />
+
+## 📖 Last Post
+
+<a href="https://dblog-app.vercel.app/post/poo-in-TypeScript-conceptos-y-ejemplos"> 
+ <img src="/static/LastPostTS.png" alt="poo in ts" height="96" />
+</a>
+

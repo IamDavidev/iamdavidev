@@ -10,27 +10,26 @@
 </div>
 
 <br />
-
-## 🪝 Languages and tools
-
-<div align="center">
- <p align="left"><strong><samp>「</samp></strong></p>
-
-[![TS](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=007acc&labelColor=191919)]()
-[![Nextjs](https://img.shields.io/badge/Nextjs-191919?style=for-the-badge&logo=next&logoColor=000&labelColor=191919)]()
-[![Nestjs](https://img.shields.io/badge/NestJs-ea2845?style=for-the-badge&logo=nestjs&logoColor=ea2845&labelColor=191919)]()
-[![Deno](https://img.shields.io/badge/Deno-fff?style=for-the-badge&logo=deno&logoColor=fff&labelColor=191919)]()
-[![Astro](https://img.shields.io/badge/Astro-ff5d01?style=for-the-badge&logo=astro&logoColor=ff5d0100&labelColor=191919)]()
-[![Go](https://img.shields.io/badge/go-79d4fd?style=for-the-badge&logo=go&logoColor=79d4fd&labelColor=191919)]()
-
-   <p align="right"><strong><samp>」</samp></strong></p>
-</div>
-
 <br />
 
 ## 📖 Last Post
 
-<a href="https://dblog-app.vercel.app/post/poo-in-TypeScript-conceptos-y-ejemplos"> 
+<div align="center">
+
+<a margin="16" href="https://dblog-app.vercel.app/post/poo-in-TypeScript-conceptos-y-ejemplos"> 
  <img src="/static/LastPostTS.png" alt="poo in ts" height="96" />
 </a>
+<a href="https://dblog-app.vercel.app/post/poo-in-TypeScript-conceptos-y-ejemplos"> 
+ <img src="/static/ItemInstalacion.png" alt="poo in ts" height="96" />
+</a>
+</div>
+
+<hr /><br />
+
+<div align="center">
+<a href="https://dblog-app.vercel.app"> 
+ <img src="/static/Dblog.png" alt="poo in ts" height="96" />
+</a>
+</div>
+
 

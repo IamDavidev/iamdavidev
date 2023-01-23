@@ -7,9 +7,9 @@
  <p>
    <img src="/static/Header.png" alt="header iamDavidev" width="1080"/>
  </p>
- 
- <a href="https://dblog-app.vercel.app" height="64"> 
- <img src="/static/Dblog.png" alt="poo in ts" height="72" />
+
+ <a href="https://dblog-app.vercel.app" height="64">
+ <img src="/static/Dblog.png" alt="dblog" width="1080" />
 </a>
 </div>
 
@@ -17,10 +17,11 @@
 
 ## 📝 Last Posts 📝
 
-<a  href="https://dblog-app.vercel.app/post/poo-in-TypeScript-conceptos-y-ejemplos"> 
+<a  href="https://dblog-app.vercel.app/post/poo-in-TypeScript-conceptos-y-ejemplos">
  <img src="/static/LastPostTS.png" alt="poo in ts" height="72" />
 </a>
-<a href="https://dblog-app.vercel.app/post/poo-in-TypeScript-conceptos-y-ejemplos"> 
+
+<a href="https://dblog-app.vercel.app/post/poo-in-TypeScript-conceptos-y-ejemplos">
  <img src="/static/ItemInstalacion.png" alt="poo in ts" height="72" />
 </a>
 
